@@ -1,6 +1,7 @@
-# Monitoria
-Como monitora, eu tenho coletado e analisado alguns dados dos atendimentos, a fim de descobrir quantos alunos comparecem, qual a duração média dos atendimentos, qual período do semestre possui maior demanda, dentre outras questões.
+# Tutoring
 
-No geral, as questões que guiam a análise não se alteram de semestre para semestre, mas sim o código, no qual procuro implementar o que aprendi desde então.
+As a tutor, I have collected and analyzed some data from student assistance sessions, in order to discover how many students attend, the average duration of the sessions, which period of the semester has the highest demand, among other questions.
 
-Com os dados de 02/2018 utilizei apenas listas, dicionários e funções das bibliotecas csv e datetime, além daquelas que não precisam ser importadas. Agora, com os dados de 01/2019, o novo objetivo foi de familiarizar-me com a biblioteca pandas.
+In general, the questions that guide the analysis do not change from semester to semester, but rather the code, in which I try to implement what I have learned since then.
+
+With the data from 02/2018, I used only lists, dictionaries, and functions from the csv and datetime libraries, in addition to those that do not need to be imported. Now, with the data from 01/2019, the new goal was to familiarize myself with the pandas library.
